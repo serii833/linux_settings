@@ -1,0 +1,1 @@
+rofi -show window  -show-icons -no-fixed-num-lines -window-format "{c}                     {t}"  -selected-row 1
